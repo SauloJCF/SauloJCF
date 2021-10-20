@@ -1,4 +1,4 @@
-### Olá! Eu sou o Saulo Figueiredo 👋🙂
+### Hi! I'm Saulo Figueiredo 👋🙂
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulofigueiredo/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006417961336)
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJCF)](https://github.com/SauloJCF/github-readme-stats)
 
-### Tecnologias que uso no meu dia a dia
+### Technologies I use in my daily life
 
 <div style="display: inline_block"><br/>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
