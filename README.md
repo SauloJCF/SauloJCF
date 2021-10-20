@@ -7,8 +7,6 @@
 
 ![Saulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloJCF&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJCF)](https://github.com/SauloJCF/github-readme-stats)
-
 ### Technologies I use in my daily life
 
 <div style="display: inline_block"><br/>
